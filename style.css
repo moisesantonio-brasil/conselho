@@ -1,0 +1,45 @@
+img{
+    width: 300px;
+}
+#primeiro{
+display: flex;
+}
+#segundo{
+display: none;
+}
+#terceiro{
+display: none;
+}
+div{
+    width: 300px;
+    background-color:gainsboro;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.posiçao{
+    width: 300px;
+    height: 30px;
+    background-color: gray;
+    border-radius: 0px 0px 10px 10px;
+}
+button{
+    width: 135px;
+    margin-left: 80px;
+    margin-top: 4px;
+}
+section{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    background-color: silver;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+}
+span{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
